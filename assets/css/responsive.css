@@ -1,6 +1,6 @@
 
 /* Mobile */
-@media (max-width: 740px) {
+@media (max-width: 46.1875em) {
     #content .s-mt-8 {
         margin-top: 8px !important;
     }
@@ -67,13 +67,15 @@
 
 }
 /* table and pc */
-@media (min-width: 740px) {
+@media (min-width: 46.25em) {
     #header {
         overflow: initial;
     }
 }
 /* Table and Mobile */
-@media (max-width: 1023px) {
+@media (max-width: 63.9375em
+
+) {
     .btn {
         padding: 16px 16px;
     }
